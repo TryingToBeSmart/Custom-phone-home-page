@@ -11,7 +11,7 @@ Android Native Code: Interact with the device policy APIs via platform channels 
 Restricting Device: Write a native Android service in Kotlin/Java using the DevicePolicyManager to lock down the phone's features.
 Grant Permissions: Request necessary permissions for phone and SMS access.
 
-Key APIs You Need:
+Key APIs Needed:
 DevicePolicyManager:
 
 To enforce the kiosk mode, restrict access, and manage apps.
