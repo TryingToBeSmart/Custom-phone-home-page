@@ -1,4 +1,4 @@
-# Custom-phone-home-page
+# Custom phone home page
 Kiosk like home app that can't be exited.  Features and apps can be added/removed later.
 
 The original goal is to provide only the basic phone functions - Phone calls and texts - for users with low self-control from all the distractions that phones can provide.  
