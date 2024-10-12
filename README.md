@@ -1,6 +1,8 @@
 # Custom phone home page
 Kiosk like home app that can't be exited.  Features and apps can be added/removed later.
 
+I gave up on this for now and switched to the Android Studio version: https://github.com/TryingToBeSmart/Custom_phone_kiosk/tree/master
+
 The original goal is to provide only the basic phone functions - Phone calls and texts - for users with low self-control from all the distractions that phones can provide.  
 
 Attempting to create the app using Flutter so that it can be cross platform. But for now, it will be developed for Android.  
